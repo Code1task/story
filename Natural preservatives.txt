@@ -1,0 +1,25 @@
+Name	Amount	Temp	pH	Notes
+				
+Geogard ECT
+(Preservative ECO, Plantaserv M)
+Benzyl Alcohol, Salicylic Acid, Glycerin, and Sorbic Acid	0.6 to 1%	under 113°F (45°C)	3 to 8	Meets COSMOS and ECOCERT standards; broad spectrum, not for kids under 3 in the EU because of the salicylic acid portion, my favorite for lotions & creams
+Leucidal SF Complete
+Lactobacillus Ferment, Lactobacillus, Cocos Nucifera (Coconut) Fruit Extract	2 to 4%	below 104°F (40°C)	3 to 8; under 6 is best	ECOCERT & COSMOS approved; offers moisturizing & skin conditioning benefits; contains Amticide Coconut
+Leucidal Liquid Complete
+Leuconostoc/Radish Root Ferment Filtrate & Lactobacillus & Cocos
+Nucifera (Coconut) Fruit Extract	2 to 4%	below 104°F (40°C)	3 to 8; under 6 is best	ECOCERT & COSMOS approved; contains Amticide Coconut; add 0.2% NeoDefend for stronger action
+Leucidal SF Max
+Lactobacillus Ferment	2 to 4%	below 104°F (40°C)	3 to 8; under 6 is best	ECOCERT & COSMOS approved; offers moisturizing & skin conditioning benefits; should be combined with Amticide Coconut
+Amticide Coconut
+Lactobacillus & Cocos Nucifera (Coconut) Fruit Extract	2 to 4%	under 158°F (70°C)	3 to 8; under 6 is best	ECOCERT & Whole Foods approved; not used alone; combine with other preservatives to give them extra mold protection
+Phytocide Aspen Bark Powder
+Populus Tremuloides Bark Extract	0.2 to 3%	under 158°F (70°C)	3 to 8	Evens skin texture; add to water phase (under 158°F) or while lotion is still watery; combine with other preservatives at 0.2% to boost their effectiveness
+NeoDefend
+(GeoGard Ultra, MicroGuard)
+Gluconolactone (and) Sodium Benzoate	0.75 to 1.5%	under 158°F (70°C)	3 to 6; under 5 is best	ECOCERT approved; don’t use in products with L-Ascorbic Acid (vitamin C); can also be combined at 0.2% with other preservatives to boost their effectiveness
+Willow Bark Extract
+Salix Nigra (Willow) Bark Extract	2.5 to 5%	under 176°F (80°C)	4 to 7	Used as a back-up preservative; may help in acne or muscle pain products; source of natural salicylic acid-like ingredients; may increase sun sensitivity
+Arborcide OC
+Leuconostoc Ferment Filtrate	2 to 4%	under 158°F (70°C)	3 to 8; under 6 is best	Organic Compliant (OC); combine with 2% AMTicide Coconut and/or 0.2% NeoDefend
+Phytocide Elderberry OS
+Sambucus Nigra Fruit Extract	1 to 5%	under 167°F (75°C)	3 to 8	ECOCERT & COSMOS approved; use in oil-based products such as scrubs, or add to oil phase and combine with another preservative for backup
